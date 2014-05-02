@@ -1,4 +1,4 @@
-webmesure
+webmeasure
 =========
 
-Simple coffescript web mesure
+Simple coffescript web measure
